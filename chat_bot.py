@@ -6,7 +6,7 @@ from llama_index import SimpleDirectoryReader
 
 st.set_page_config(
     layout="centered", 
-    initial_sidebar_state="collapsed", menu_items=None)
+    initial_sidebar_state="collapsed", menu_items=None,page_icon="🤖",)
 openai.api_key = st.secrets.Okey
 
 
