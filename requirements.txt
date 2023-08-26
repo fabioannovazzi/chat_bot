@@ -1,3 +1,7 @@
 streamlit
 llama_index
-llama_index
+openai
+torch 
+transformers 
+sentencepiece 
+Pillow
