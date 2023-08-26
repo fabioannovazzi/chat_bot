@@ -1,8 +1,4 @@
 streamlit
-llama_index
 openai
-torch 
-transformers 
-sentencepiece 
-Pillow
+llama-index
 nltk
