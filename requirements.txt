@@ -2,3 +2,7 @@ streamlit
 openai
 llama-index
 nltk
+torch
+transformers 
+sentencepiece 
+Pillow
