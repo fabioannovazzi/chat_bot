@@ -1,4 +1,3 @@
-pip install streamlit openai llama-index nltk
 import streamlit as st
 from llama_index.llms import OpenAI
 import openai
