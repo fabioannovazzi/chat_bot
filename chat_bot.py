@@ -7,8 +7,8 @@ from llama_index import SimpleDirectoryReader
 st.set_page_config(
     layout="centered", 
     initial_sidebar_state="collapsed", menu_items=None)
-#openai.api_key = st.secrets.openai_key
-openai.api_key = "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"
+openai.api_key = st.secrets.openai_key
+
 
          
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
