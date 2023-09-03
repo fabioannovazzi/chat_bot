@@ -2,8 +2,6 @@ To play with a test dataset choose one of the example files in the "Choose a tes
 
 To upload your own dataset you need to have an activation key *🔑*. Drop me a mail at fabio.annovazzi at gmail.com. 
 
-*Until further notice the app is free to use (as in free🍺) with the "Mparanza"activation token🗝️ 😊😊😊.*
-
 Your file in never saved on 🖴disk and is completely discarded from RAM once you close your session. The app does not log user sessions and does not have a username 👤 login mechanism.  
 
 You can upload an Excel dataset, or a CSV dataset in UTF-8 format. 
