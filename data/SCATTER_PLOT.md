@@ -6,7 +6,7 @@ Datasets larger than 100k observations are plotted as [datashader](https://datas
 
  Datasets smaller than 100k observations are plotted as scatterplots by default. 
 
-![scatter](assets/images/scatter-16903725905871.png)
+![scatter_4eeed60c2297a702c3f14e7147b92f0c](assets/images/scatter_4eeed60c2297a702c3f14e7147b92f0c.png)
 
 You can decide not to show the isolines and you get this.
 
@@ -38,7 +38,7 @@ You can choose whether to exclude outliers from the plot.
 
 ##### Small multiples plot
 
-![scatter_small_multiples](assets/images/scatter_small_multiples-16903726032632.png)
+![scatter_4eeed60c2297a702c3f14e7147b92f0c_189dc7fe824def6fd3f79a2eb6e8d5b3](assets/images/scatter_4eeed60c2297a702c3f14e7147b92f0c_189dc7fe824def6fd3f79a2eb6e8d5b3-16931557417201.png)
 
 
 

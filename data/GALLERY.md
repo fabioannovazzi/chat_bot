@@ -1,3 +1,7 @@
+![Charts](assets/images/Charts-16949685248191.png)
+
+
+
 #### [MULTI-TIERED BAR PLOT](https://mparanza.com/site/MULTI_TIERED_BAR_PLOT/) 
 
 ![multi-tier_bar](assets/images/multi-tier_bar.png)
@@ -104,11 +108,11 @@
 
 ####  [SCATTER PLOT](https://mparanza.com/site/SCATTER_PLOT/)
 
-![scatter](assets/images/scatter-16903725083051.png)
+![scatter_4eeed60c2297a702c3f14e7147b92f0c](assets/images/scatter_4eeed60c2297a702c3f14e7147b92f0c-16931558037581.png)
 
 ####  [SMALL MULTIPLES SCATTER PLOT](https://mparanza.com/site/SCATTER_PLOT/#small-multiples-plot)
 
-![scatter_small_multiples](assets/images/scatter_small_multiples-16903725624642.png)
+![scatter_4eeed60c2297a702c3f14e7147b92f0c_189dc7fe824def6fd3f79a2eb6e8d5b3](assets/images/scatter_4eeed60c2297a702c3f14e7147b92f0c_189dc7fe824def6fd3f79a2eb6e8d5b3-16931558366492.png)
 
 #### [YEAR-OVER-YEAR COLUMN PLOT](https://mparanza.com/site/MULTI_TIERED_COLUMN_PLOT/) 
 
@@ -124,7 +128,7 @@
 
 #### [YEAR-OVER-YEAR LINE PLOT ](https://mparanza.com/site/TREND_COMPARISON_PLOT/)
 
-![year-over-year_line](assets/images/year-over-year_line.png)
+![year-over-year_line_small_multiples](assets/images/year-over-year_line_small_multiples-16948975819621.png)
 
 #### [YEAR-OVER-YEAR BASELINE LINE PLOT ](https://mparanza.com/site/TREND_COMPARISON_PLOT/#baseline-plot)
 
@@ -134,7 +138,7 @@
 
 #### [YEAR-OVER-YEAR BY PERIOD PLOT](https://mparanza.com/site/ACTUAL_VS_PREVIOUS_YEAR_PLOT/)
 
-![year-over-year_by_period](assets/images/year-over-year_by_period.png)
+![year-over-year_by_period_small_multiples](assets/images/year-over-year_by_period_small_multiples-16948975999372.png)
 
 #### [TIMELINE PLOT](https://mparanza.com/site/TIMELINE_PLOT/)
 
@@ -178,7 +182,7 @@
 
 #### [UPSET PLOT](https://mparanza.com/site/UPSET_PLOT/)
 
-![upset_small_multiples](assets/images/upset_small_multiples.png)
+![upset_small_multiples](assets/images/upset_small_multiples-16948980892024.png)
 
 
 

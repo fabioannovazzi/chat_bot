@@ -1,3 +1,7 @@
+![EPM](assets/images/EPM.png)
+
+
+
 Builds a PL/FC dataset from a baseline 12-month calendar or rolling Actual dataset. By PL we mean Plan (next year's budget), by FC we meant Forecast (modified forecast during year).
 
 Input is a dataset with 12 months of Actual data, either calendar or rolling. Output is a dataset with both the Actual and the PL (or FC) data, calculated modifying the Actual data with the hypothesis inserted by the user. The user can then run this file in the app, check the results of the hypothesis and if necessary iterate.

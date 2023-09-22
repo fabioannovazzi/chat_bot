@@ -1,3 +1,5 @@
+![IBCS](assets/images/IBCS-16842403057031.png)
+
 Standards are the key to interoperability. Whatever appliance you buy will fit into your electric socket. In your country at least.
 
 Standards also provide a second, important, advantage.
@@ -20,7 +22,7 @@ One of the most original ideas of IBCS is data density.
 
 This is the idea that, as long as the charts you show in the same page are relevant and integral to a story, it actually helps to have them on the same page. 
 
-![IBCS](assets/images/IBCS-16842403057031.png)
+
 
 
 

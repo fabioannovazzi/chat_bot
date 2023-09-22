@@ -1,3 +1,5 @@
+![variable_dimension_variance](assets/images/variable_dimension_variance-16949701671571.png)
+
 Root cause analysis is hard to implement in Excel. However, it is nothing new. When you say *"the top sales driver was the Chinese market* (dimension➡️country), *the second direct sales* (dimension➡️channel) *to large accounts"* (dimension➡️segment) you are doing variable dimension variance analysis: you are changing the dimensions of each result.
 
 ![vertical_waterfall_bae6db8eda0034cca55664df2a3143ea](assets/images/vertical_waterfall_bae6db8eda0034cca55664df2a3143ea.png)

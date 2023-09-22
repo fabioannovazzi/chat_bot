@@ -1,3 +1,5 @@
+![load_data](assets/images/load_data-16949706160141.png)
+
 To play with a test dataset choose one of the example files in the "Choose a test 📁 dataset" widget. The app will load the file and automatically map the columns 🏛️.
 
 To upload your own dataset you need to have an activation key *🔑*. Drop me a mail at fabio.annovazzi at gmail.com. 

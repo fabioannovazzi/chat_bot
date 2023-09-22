@@ -1,5 +1,3 @@
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/GKOCGNrw5iM" title="A no code business intelligence fairy tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 No-code business intelligence means that *you* - the end user - do not need to code or write Excel macros in order to perform a given analysis. 
 
 Hey, but I already have self service BI! 

@@ -4,11 +4,9 @@ An [Upset plot](https://ieeexplore.ieee.org/document/6876017) is an alternative 
 
 UpSet plots the intersections of a set as a matrix. Each column corresponds to a set, and each row corresponds to one segment in a Venn diagram.
 
-The plot is run twice once for each period.
+The plot is run also as small multiples. Just choose the dimension to plot as small multiples.
 
-To plot the items as small multiples, set the Plot Small multiples widget to True, choose the dimension to plot as small multiples.
-
-![upset_small_multiples](assets/images/upset_small_multiples-16842601917931.png)
+![upset_small_multiples](assets/images/upset_small_multiples-16948981133631.png)
 
  
 
@@ -25,5 +23,4 @@ If there are many intersection, the app might return an unreadable chart.
 You can filter out the intersections with less than a given number of elements.
 
 You can plot the distribution of the variables along the metric as strip, box or violin plot.
-
 

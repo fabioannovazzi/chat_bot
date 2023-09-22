@@ -14,9 +14,7 @@ The most recent, Actual, value is show with in black. The less recent PY value i
 
 The app will visualize Forecast (FC) data as hatched in the monthly bar charts. 
 
-#### SMALL MULTIPLES 
-
-To plot the items as small multiples, set the Plot Small multiples widget to True. 
+To plot the items as small multiples, choose the dimension on which to plot them.
 
 ![year-over-year_waterfall_small_multiples](assets/images/year-over-year_waterfall_small_multiples-16842501433343.png)
 

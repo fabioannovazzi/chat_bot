@@ -1,3 +1,5 @@
+![security](assets/images/security.png)
+
 We do not store/save your data in any way. The data gets processed and, once you log-out, it disappears from our servers. We have no way of looking at your data. We take this very seriously.  
 
 > *We do not store any kind of user data in any way. Your uploaded file is never stored or saved on disk and is fully discarded from RAM after being processed and/or when you close your session. We secure our servers by implementing hardening [best practices.](https://www.cisecurity.org/)*
@@ -7,8 +9,6 @@ We do not store/save your data in any way. The data gets processed and, once you
 > *We do not collect user statistics of any kind: no cookies, no Google Analytics, no trackers, no nothing.*
 >
 > *We use Streamlit.io services to render our python application. Cookie banners are required in the EU when a website uses cookies for analytics/performance or tracking/marketing. Streamlit services do not use such cookies, which is why we do not have a cookie banner.*
-
-![security](assets/images/security.png)
 
 Our application is developed using Streamlit. As the name implies, Streamlit uses "streams". In their words:
 

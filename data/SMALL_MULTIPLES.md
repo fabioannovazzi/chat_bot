@@ -1,8 +1,8 @@
-Charts (with the exception of area, dot, marimekko, barmekko, bubble, motion, pareto, pareto stacked column plots) can also be plotted as small multiples (also called Trellis plots).
+Charts (with the exception of area, dot, marimekko, barmekko,motion, pareto, pareto stacked column plots) can also be plotted as small multiples (also called Trellis plots).
 
-Some plots types (scatter, box plot, kernel density, histogram, ECDF, stripplot) the app will plot both totals and Small Multiples by default.  
+Generally (scatter, bubble, upset, venn, year-over-year waterfall, year-over-year column, year-over-year line, year-over-year by period, timeline,  multitier bar,box plot, kernel density, histogram, ECDF, stripplot) the app will plot both totals and Small Multiples by default.  
 
-For other plot types (year-over-year waterfall,year-over-year column, year-over-year line, year-over-year by period, timeline, stacked column, stacked bar, slope, multitier bar, upset, venn) you need to explicitly choose the Small Multiples option.
+For other plot types (stacked column, stacked bar, slope) you need to explicitly choose the Small Multiples option.
 
 ![year-over-year_column_small_multiples_Plan](assets/images/year-over-year_column_small_multiples_Plan-16842472461821.png)
 
